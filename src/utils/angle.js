@@ -1,0 +1,1 @@
+export const angle = (deg) => (Math.PI / 180) * deg
